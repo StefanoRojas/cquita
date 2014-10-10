@@ -1,0 +1,598 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"form",
+				"formulario"
+			],
+			[
+				"lla",
+				"llamada_seleccionada"
+			],
+			[
+				"llamada",
+				"llamada_seleccionada"
+			],
+			[
+				"mi",
+				"mint	IntegerField (mint)"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"dias",
+				"dias_plus"
+			],
+			[
+				"i",
+				"invalido"
+			],
+			[
+				"llama",
+				"llamada_seleccionada"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"w",
+				"widget"
+			],
+			[
+				"fiel",
+				"field"
+			],
+			[
+				"o",
+				"observacion"
+			],
+			[
+				"pos",
+				"POST"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"documen",
+				"Ti.XML.Document.COMMENT_NODE"
+			],
+			[
+				"eve",
+				"even  (argument)"
+			],
+			[
+				"fun",
+				"open  (function)"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"bs",
+				"bs3-cdn	bs3-cdn"
+			],
+			[
+				"te",
+				"textarea	Tag"
+			],
+			[
+				"no",
+				"auto_now"
+			],
+			[
+				"ini",
+				"inicio"
+			],
+			[
+				"ll",
+				"llamadas"
+			],
+			[
+				"spa",
+				"span	Tag"
+			],
+			[
+				"H",
+				"HttpResposeRedirect"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"l",
+				"Llamada  (class)"
+			],
+			[
+				"templa",
+				"template"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"L",
+				"Llamada"
+			],
+			[
+				"C",
+				"Cliente"
+			],
+			[
+				"cl",
+				"cliente"
+			],
+			[
+				"mdat",
+				"mdatetime	DateTimeField (mdatetime)"
+			],
+			[
+				"mda",
+				"mdatetime	DateTimeField (mdatetime)"
+			],
+			[
+				"md",
+				"mdatetime	DateTimeField (mdatetime)"
+			],
+			[
+				"d",
+				"deleteview	DeleteView"
+			],
+			[
+				"in",
+				"IntegerField"
+			],
+			[
+				"char",
+				"FILE_CHARSET"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"fot",
+				"font-style"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"E",
+				"Empleadores"
+			],
+			[
+				"Ver",
+				"VerEmpleador"
+			],
+			[
+				"Emp",
+				"Empleador"
+			],
+			[
+				"ver",
+				"verAlumnos"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"inde",
+				"index2"
+			],
+			[
+				"Crea",
+				"CreateView"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"s",
+				"sqlite3"
+			],
+			[
+				"m",
+				"method"
+			],
+			[
+				"A",
+				"ArriboForm"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"R",
+				"RUTA_PROYECTO"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: space",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet:",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 610.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/mnt/rescue/Desarrollo/octopress"
+	],
+	"file_history":
+	[
+		"/mnt/rescue/Desarrollo/django-proyects/SAN_JOSE_SYS/apps/llamadas/admin.py",
+		"/mnt/rescue/Desarrollo/django-proyects/SAN_JOSE_SYS/apps/llamadas/forms.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/base.html",
+		"/mnt/rescue/Desarrollo/django-proyects/SAN_JOSE_SYS/static/css/estilos.css",
+		"/mnt/rescue/Desarrollo/django-proyects/SAN_JOSE_SYS/apps/llamadas/urls.py",
+		"/mnt/rescue/Desarrollo/django-proyects/SAN_JOSE_SYS/apps/llamadas/templates/llamadas/inicio.html",
+		"/mnt/rescue/Desarrollo/django-proyects/SAN_JOSE_SYS/apps/llamadas/views.py",
+		"/mnt/rescue/Desarrollo/django-proyects/SAN_JOSE_SYS/apps/llamadas/templates/llamadas/detalle_llamada.html",
+		"/mnt/rescue/Desarrollo/django-proyects/SAN_JOSE_SYS/apps/llamadas/templates/base.html",
+		"/home/djian/.zshrc",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/static/css/estilos.css",
+		"/mnt/rescue/Desarrollo/django-proyects/SAN_JOSE_SYS/static/css/login.css",
+		"/mnt/rescue/Desarrollo/django-proyects/SAN_JOSE_SYS/apps/llamadas/models.py",
+		"/mnt/rescue/Desarrollo/django-proyects/SAN_JOSE_SYS/SAN_JOSE_SYS/settings.py",
+		"/home/djian/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/djian/.config/sublime-text-3/Packages/User/Python Django.sublime-settings",
+		"/mnt/rescue/Desarrollo/Titanium/pez/app/styles/index.tss",
+		"/mnt/rescue/Desarrollo/Titanium/pez/app/views/index.xml",
+		"/mnt/rescue/Desarrollo/Titanium/pez/app/controllers/index.js",
+		"/mnt/rescue/Desarrollo/Titanium/hello/app/views/index.xml",
+		"/mnt/rescue/Desarrollo/Titanium/hello/app/controllers/index.js",
+		"/mnt/rescue/Desarrollo/Titanium/hello/app/styles/index.tss",
+		"/home/djian/.config/sublime-text-3/Packages/Titanium Build/Titanium.sublime-settings",
+		"/home/djian/.config/sublime-text-3/Packages/User/Titanium.sublime-settings",
+		"/run/user/1000/gvfs/ftp:host=ftp.260mb.net/htdocs/index2.html",
+		"/home/djian/.titanium/mobilesdk/linux/3.3.0.GA/android/cli/hooks/run.js",
+		"/mnt/rescue/Desarrollo/django-proyects/infoTerminal/infoTerminal/plantillas/editar_arribo.html",
+		"/mnt/rescue/Desarrollo/django-proyects/infoTerminal/infoTerminal/plantillas/index.html",
+		"/mnt/rescue/Desarrollo/django-proyects/infoTerminal/infoTerminal/settings.py",
+		"/mnt/rescue/Desarrollo/django-proyects/SAN_JOSE_SYS/apps/llamadas/templates/llamadas/base.html",
+		"/mnt/rescue/Desarrollo/django-proyects/infoTerminal/infoTerminal/plantillas/base.html",
+		"/home/djian/.config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
+		"/home/djian/.config/sublime-text-3/Packages/User/HTML (Django).sublime-settings",
+		"/home/djian/.config/sublime-text-3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/mnt/rescue/Desarrollo/django-proyects/infoTerminal/crud_principal/views.py",
+		"/mnt/rescue/Desarrollo/django-proyects/SAN_JOSE_SYS/SAN_JOSE_SYS/urls.py",
+		"/mnt/rescue/Desarrollo/django-proyects/infoTerminal/crud_principal/forms.py",
+		"/run/user/1000/gvfs/dav:host=archivos4.movistar.cl,ssl=false,prefix=%2Flobrego/Web/NewPage/Carousel Template for Bootstrap.htm",
+		"/run/user/1000/gvfs/dav:host=archivos4.movistar.cl,ssl=false,prefix=%2Flobrego/Web/NewPage/Carousel Template for Bootstrap_files/css.css",
+		"/run/user/1000/gvfs/dav:host=archivos4.movistar.cl,ssl=false,prefix=%2Flobrego/Web/NewPage/Carousel Template for Bootstrap_files/bootstrap-theme.css",
+		"/run/user/1000/gvfs/dav:host=archivos4.movistar.cl,ssl=false,prefix=%2Flobrego/Web/NewPage/Carousel Template for Bootstrap_files/bootstrap-theme.min.css",
+		"/run/user/1000/gvfs/dav:host=archivos4.movistar.cl,ssl=false,prefix=%2Flobrego/Web/NewPage/Carousel Template for Bootstrap_files/bootstrap.css",
+		"/run/user/1000/gvfs/dav:host=archivos4.movistar.cl,ssl=false,prefix=%2Flobrego/Web/NewPage/Carousel Template for Bootstrap_files/main.css",
+		"/run/user/1000/gvfs/dav:host=archivos4.movistar.cl,ssl=false,prefix=%2Flobrego/Web/NewPage/Carousel Template for Bootstrap_files/idangerous.css",
+		"/run/user/1000/gvfs/dav:host=archivos4.movistar.cl,ssl=false,prefix=%2Flobrego/Web/NewPage/Carousel Template for Bootstrap_files/font-awesome.css",
+		"/run/user/1000/gvfs/dav:host=archivos4.movistar.cl,ssl=false,prefix=%2Flobrego/Web/NewPage/Carousel Template for Bootstrap_files/metro-bootstrap.css",
+		"/run/user/1000/gvfs/dav:host=archivos4.movistar.cl,ssl=false,prefix=%2Flobrego/Web/NewPage/Carousel Template for Bootstrap_files/carousel.css",
+		"/home/djian/Desarrollo/django-proyects/PRACTS/templates/base.html",
+		"/home/djian/Desarrollo/django-proyects/PRACTS/templates/inicio/index.html",
+		"/home/djian/Desarrollo/django-proyects/PRACTS/apps/inicio/views.py",
+		"/home/djian/Desarrollo/django-proyects/PRACTS/templates/inicio/index2.html",
+		"/home/djian/Desarrollo/django-proyects/SAN_JOSE_SYS/apps/llamadas/urls.py",
+		"/home/djian/Desarrollo/django-proyects/SAN_JOSE_SYS/SAN_JOSE_SYS/urls.py",
+		"/home/djian/Desarrollo/django-proyects/SAN_JOSE_SYS/apps/llamadas/views.py",
+		"/home/djian/Desarrollo/django-proyects/SAN_JOSE_SYS/apps/llamadas/templates/llamadas/index.html",
+		"/home/djian/Desarrollo/django-proyects/SAN_JOSE_SYS/apps/llamadas/models.py",
+		"/home/djian/Desarrollo/django-proyects/SAN_JOSE_SYS/apps/llamadas/admin.py",
+		"/home/djian/Desarrollo/django-proyects/SAN_JOSE_SYS/SAN_JOSE_SYS/settings.py",
+		"/home/djian/Desarrollo/django-proyects/SAN_JOSE_SYS/llamadas/models.py",
+		"/home/djian/.config/sublime-text-3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/home/djian/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/djian/Desarrollo/django-proyects/BASE/BASE/urls.py",
+		"/home/djian/Desarrollo/django-proyects/BASE/templates/signup/listar_contactos.html",
+		"/home/djian/Desarrollo/django-proyects/BASE/templates/signup/base.html",
+		"/home/djian/Desarrollo/django-proyects/BASE/apps/signup/urls.py",
+		"/home/djian/Desarrollo/django-proyects/BASE/apps/signup/models.py",
+		"/home/djian/Desarrollo/django-proyects/PRACTS/apps/empresas/views.py",
+		"/home/djian/Desarrollo/django-proyects/BASE/BASE/settings.py",
+		"/home/djian/Desarrollo/django-proyects/PROY_BASE/PROY_BASE/settings.py",
+		"/home/djian/Desarrollo/django-proyects/PROY_BASE/apps/signup/models.py",
+		"/home/djian/Desarrollo/django-proyects/PROY_BASE/apps/__init__.py",
+		"/home/djian/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/djian/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+		"/home/djian/Desarrollo/django-proyects/PRACTS.zip",
+		"/home/djian/Desarrollo/django-proyects/PROY_BASE/apps/contact_to/__init__.py",
+		"/home/djian/pez.html",
+		"/home/djian/php-form-checkbox.php",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/profes/models.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/empresas/models.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/empresas/ver_empresa2.html",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/empresas/registrar_empresa.html",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/inicio/index2.html",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/static/css/login.css",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/inicio/index.html",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/inicio/urls.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/PRACTS/settings.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/inicio/views.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/administrador/inicio_admin.html",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/administrador/models.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/administrador/views.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/empresas/views.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/empresas/ver_empresa.html",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/empresas/admin.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/empresas/ver_empleador.html",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/administrador/registrar_profe.html",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/profes/ver_empleador.html",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/profes/ver_alumnos.html",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/profes/ver_practicas.html",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/empresas/urls.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/administrador/urls.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/administrador/forms.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/profes/urls.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/profes/views.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/profes/admin.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/profes/forms.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/PRACTS/urls.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/administrador/admin.py",
+		"/mnt/rescue/Desarrollo/django-proyects/infoTerminal/infoTerminal/static/css/bootstrap.css",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/apps/empresas/tests.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/administrador/nuevoAdmin.html",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/inicio/logeo.html",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/templates/inicio/login.html",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/PRACTS/wsgi.py",
+		"/mnt/rescue/Desarrollo/django-proyects/PRACTS/manage.py",
+		"/mnt/rescue/Desarrollo/mejorando.la/Diseño web/puls/index.html",
+		"/mnt/rescue/Desarrollo/mejorando.la/Diseño web/PULSE/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/mnt/rescue/Desarrollo/django-proyects/infoTerminal/infoTerminal/static"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"virtual",
+			"id",
+			"day",
+			"http",
+			"titlehttp",
+			"title",
+			"<title>",
+			"title",
+			"<title>",
+			"background",
+			"apps",
+			"side",
+			"icon-p",
+			"section",
+			"tale-strip",
+			" </",
+			"button",
+			"<li>",
+			"logeo",
+			"environment",
+			"anna",
+			"Where",
+			"ANNA",
+			"Anna",
+			"ANNA",
+			"Anna",
+			"ANNA",
+			"Anna",
+			"ANNA",
+			"Anna",
+			"ANNA",
+			"icon-arrow-up",
+			"titulo_p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "octopress_stef.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/mnt/rescue/Desarrollo/django-proyects/SAN_JOSE.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
